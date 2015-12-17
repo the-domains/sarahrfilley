@@ -1,7 +1,7 @@
 name: SarahRFilley
 favicon: null
-layout_spectrum: 0.8588601374067366
-typography_spectrum: 0.9386594940442592
+layout_spectrum: 0.94509
+typography_spectrum: 0.65468
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.08875673194415867
-  lightness: 0.9012572411447763
-  saturation: 0.4767663227394223
-  rhythmicContrast: 0.10255828173831105
+    - '#000000'
+    - '#ffffff'
+    - '#ffcc00'
+    - '#806600'
+    - '#afafaf'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
